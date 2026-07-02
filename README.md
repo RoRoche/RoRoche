@@ -9,6 +9,10 @@ Passionate about building high-quality software, sharing knowledge, and explorin
 </p>
 
 <p align="center">
+<img src="https://komarev.com/ghpvc/?username=RoRoche&style=flat-square&color=blue" />
+</p>
+
+<p align="center">
 <a href="https://www.linkedin.com/in/romain-rochegude-4750503b/">
 <img src="https://img.shields.io/badge/LinkedIn-Romain%20Rochegude-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
