@@ -178,19 +178,9 @@ I share articles on software architecture, Java/Kotlin, OOP and engineering prac
 ## 🌍 Let's connect
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/romain-rochegude-4750503b/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://github.com/RoRoche">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://medium.com/@romain.rochegude">
-<img src="https://img.shields.io/badge/Medium-Read%20my%20posts-black?logo=medium"/>
-</a>
-
+<a href="https://www.linkedin.com/in/romain-rochegude-4750503b"><img src="https://skillicons.dev/icons?i=linkedin"></a>&nbsp;
+<a href="https://github.com/RoRoche"><img src="https://skillicons.dev/icons?i=github"></a>&nbsp;
+<a href="https://medium.com/@romain.rochegude"><img src="https://img.shields.io/badge/Medium-Read%20my%20posts-black?logo=medium"></a>
 </p>
 
 ---
