@@ -171,7 +171,7 @@ Cucumber • Cypress
 
 I share articles on software architecture, Java/Kotlin, OOP and engineering practices:
 
-👉 Medium: https://medium.com/@romain.rochegude
+➡️ **[Read my articles on Medium](https://medium.com/@romain.rochegude)**
 
 ---
 
