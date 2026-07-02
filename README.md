@@ -149,15 +149,15 @@ Cucumber • Cypress
 
 ---
 
-## 💻 What I enjoy working on
+## 💻 What I Enjoy Working On
 
 - 🧩 Software Architecture and Object-Oriented Programming
 - ☕ Modern Java
-- 🤖 AI for Software Engineering
-- ⚙️ DevOps & CI/CD
 - 🧪 Testing & Quality
+- ⚙️ DevOps & CI/CD
 - 📈 Developer Productivity
 - ☁️ Docker & Kubernetes
+- 🤖 AI for Software Engineering
 
 ---
 
@@ -179,7 +179,7 @@ I share articles on software architecture, Java/Kotlin, OOP and engineering prac
 
 ---
 
-## 🌍 Let's connect
+## 🌍 Let's Connect
 
 <p align="center">
 <a href="https://www.linkedin.com/in/romain-rochegude-4750503b"><img src="https://skillicons.dev/icons?i=linkedin"></a>&nbsp;
