@@ -13,17 +13,17 @@ Passionate about building high-quality software, sharing knowledge, and explorin
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/romain-rochegude-4750503b/">
-<img src="https://img.shields.io/badge/LinkedIn-Romain%20Rochegude-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/romain-rochegude-4750503b">
+    <img src="https://img.shields.io/badge/LinkedIn-Romain%20Rochegude-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;
 
-<a href="https://github.com/RoRoche">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
-</a>
+  <a href="https://github.com/RoRoche">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>&nbsp;
 
-<a href="https://open.spotify.com/user/roroche63">
-  <img src="https://img.shields.io/badge/Spotify-Profile-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
-</a>
+  <a href="https://open.spotify.com/user/roroche63">
+    <img src="https://img.shields.io/badge/Spotify-Profile-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+  </a>
 </p>
 
 ---
@@ -188,8 +188,8 @@ I share articles on software architecture, Java/Kotlin, OOP and engineering prac
 <p align="center">
 <a href="https://www.linkedin.com/in/romain-rochegude-4750503b"><img src="https://skillicons.dev/icons?i=linkedin"></a>&nbsp;
 <a href="https://github.com/RoRoche"><img src="https://skillicons.dev/icons?i=github"></a>&nbsp;
+<a href="https://open.spotify.com/user/roroche63"><img src="https://skillicons.dev/icons?i=spotify" alt="Spotify"/></a>&nbsp;
 <a href="https://medium.com/@romain.rochegude"><img src="https://img.shields.io/badge/Medium-Read%20my%20posts-black?logo=medium"></a>&nbsp;
-<a href="https://open.spotify.com/user/roroche63"><img src="https://skillicons.dev/icons?i=spotify" alt="Spotify"/></a>
 </p>
 
 ---
