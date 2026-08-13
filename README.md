@@ -17,6 +17,7 @@ Passionate about building high-quality software, sharing knowledge, and explorin
 ## 👨🏻‍💻 About Me
 
 - ☕ Software Architect focused on Java ecosystems
+- 🎓 Adjunct Lecturer in Software Architecture & Quality at an engineering school
 - 💡 Interested in Software Craftsmanship, DevOps and Developer Experience
 - 🤖 Exploring AI-assisted software engineering
 - 🎤 Speaker at tech conferences
